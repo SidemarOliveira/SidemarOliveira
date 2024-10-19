@@ -43,3 +43,11 @@ Sou um desenvolvedor Full Stack em formação, sempre em busca de aprimorar minh
     <img src="https://img.icons8.com/?size=30&id=98960&format=png"/>
   </a>
 </p>
+
+---
+
+## ✨ Sobre Mim:
+- 🎯 Sempre curioso e disposto a aprender novas tecnologias.
+- 📖 Atualmente me aprofundando em **React** e **TypeScript**.
+- 🛠️ Explorando o mundo do **Back-end** com **Node.js** e **MongoDB**.
+- 🥅 Próximos passos: Desenvolver projetos completos e colaborativos.
