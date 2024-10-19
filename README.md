@@ -49,5 +49,5 @@ Sou um desenvolvedor Full Stack em formação, sempre em busca de aprimorar minh
 ## ✨ Sobre Mim:
 - 🎯 Sempre curioso e disposto a aprender novas tecnologias.
 - 📖 Atualmente me aprofundando em **React** e **TypeScript**.
-- 🛠️ Explorando o mundo do **Back-end** com **Node.js** e **MongoDB**.
+- 🛠️ Explorando o mundo do **Front-end** e **Back-end**.
 - 🥅 Próximos passos: Desenvolver projetos completos e colaborativos.
