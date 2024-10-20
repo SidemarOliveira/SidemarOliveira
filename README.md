@@ -32,7 +32,7 @@ Sou um desenvolvedor Full Stack em formação, sempre em busca de aprimorar minh
 - Cadastro de Usuário: https://github.com/SidemarOliveira/devclub-cadastro-usuarios.git
 - Projet MIcrosoft: https://github.com/SidemarOliveira/Projeto-Microsoft.git
 - Carrosel Animado: https://github.com/SidemarOliveira/Carrosel-Animado.git
-- Conversor de moedas:
+- Conversor de moedas: https://github.com/SidemarOliveira/Projeto-Conversor-de-Moeda.git
 
 ---
 
