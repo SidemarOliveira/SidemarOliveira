@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor Full Stack em formação, sempre em busca de aprimorar minhas habilidades e contribuir com projetos significativos. Apaixonado por tecnologia, design e por transformar ideias em realidade. 🚀
 <br>
-<p>Estou em busca da minha primeira oportunidade como Desenvolvedor! <img src="https://github.com/user-attachments/assets/2600a0f8-1a27-460e-9589-c748f1f6bd08" align=center height="30"</p>
+<p>Estou em busca da minha primeira oportunidade como Desenvolvedor!</p>
 
 ---
 
