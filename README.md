@@ -23,17 +23,14 @@ Sou um desenvolvedor Full Stack em formação, sempre em busca de aprimorar minh
 ## 📊 Estatísticas do GitHub:
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SidemarOliveira&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidemarOliveira&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidemarOliveira&layout=compact&theme=dark" alt="Linguagens mais usadas" /> 
 </p>
-
 
 ---
 
 ## 📂 Projetos em Destaque:
-- [Cadastro de Usuário]) https://github.com/SidemarOliveira/devclub-cadastro-usuarios.git
-
-  
-- **API com Node.js e MongoDB**: Integração simples para cadastro de usuários.
+- Cadastro de Usuário: https://github.com/SidemarOliveira/devclub-cadastro-usuarios.git
+-
 
 ---
 
